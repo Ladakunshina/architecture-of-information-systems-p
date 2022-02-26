@@ -6,7 +6,7 @@
 :Robot: --> (start painting)
 :Robot: --> (stop painting)
 :Robot: --> (stop moving)
-:Robot: --> (discover the inscription)
+:Robot: --> (graffity detected)
 :Robot: --> (take the virtical position of the spray gun)
 :Robot: --> (take the horizontal position of the spray gun)
 :Robot: --> (turning off the robot)
